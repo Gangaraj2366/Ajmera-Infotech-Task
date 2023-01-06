@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ajmera-Infotech-Task/static/css/main.64e7e513.css",
+    "main.js": "/Ajmera-Infotech-Task/static/js/main.f7a23351.js",
+    "static/js/787.0c3f432a.chunk.js": "/Ajmera-Infotech-Task/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/Ajmera-Infotech-Task/index.html",
+    "main.64e7e513.css.map": "/Ajmera-Infotech-Task/static/css/main.64e7e513.css.map",
+    "main.f7a23351.js.map": "/Ajmera-Infotech-Task/static/js/main.f7a23351.js.map",
+    "787.0c3f432a.chunk.js.map": "/Ajmera-Infotech-Task/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64e7e513.css",
+    "static/js/main.f7a23351.js"
+  ]
+}
